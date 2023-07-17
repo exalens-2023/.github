@@ -2,8 +2,6 @@
 
 Welcome to Exalens's GitHub organization, where we are passionate about everything related to open source.
 
-<img src="https://github.com/exalens-2023/.github/blob/main/images/open-at-exalens.png" width="500">
-
 ## Get Involved
 
 If you're interested in getting involved, there are numerous "good first issue" opportunities available for you to explore.
