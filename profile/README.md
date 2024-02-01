@@ -1,10 +1,8 @@
 ## Hello, World! :wave:
 
-Welcome to Exalens's GitHub organization, where we are passionate about everything related to open source.
+Welcome to Exalens's GitHub.
 
 ## Get Involved
-
-If you're interested in getting involved, there are numerous "good first issue" opportunities available for you to explore.
 
 * [Try Exalens for free with our new community version](https://www.exalens.com/community-edition-sign-up)
 * [Join our community on Slack](https://exalens.slack.com)
