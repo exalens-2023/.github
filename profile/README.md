@@ -1,7 +1,7 @@
 ## Welcome to Exalens's GitHub.
 
-* [Try Exalens for free with our new community version](https://www.exalens.com/platform/pricing)
 * [Join our community on Slack](https://exalens.slack.com)
+* [Check out our video content on YouTube](https://www.youtube.com/@exalens)
 * [Explore careers at Exalens](https://www.exalens.com/company/careers)
 
 ----
